@@ -1,12 +1,6 @@
-# AstroPaper 📄
+# 1 Minute Papers 📄⏱️
 
-![AstroPaper](public/astropaper-og.jpg)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![GitHub](https://img.shields.io/github/license/satnaing/astro-paper?color=%232F3741&style=for-the-badge)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white&style=for-the-badge)](https://conventionalcommits.org)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge)](http://commitizen.github.io/cz-cli/)
-
-AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro blog theme. This theme is designed and crafted based on [my personal blog](https://satnaing.dev/blog).
+1 Minute Papers is a minimal, responsive, accessible and SEO-friendly blog themed to give a vast amount of information in a shoft period of time. This theme is designed and crafted based on [this blog](https://satnaing.dev/blog).
 
 This theme follows best practices and provides accessibility out of the box. Light and dark mode are supported by default. Moreover, additional color schemes can also be configured.
 
@@ -140,14 +134,8 @@ All commands are run from the root of the project, from a terminal:
 | `npm run cz`           | Commit code changes with commitizen                                                                                              |
 | `npm run lint`         | Lint with ESLint                                                                                                                 |
 
-## ✨ Feedback & Suggestions
-
-If you have any suggestions/feedback, you can contact me via [my email](mailto:contact@satnaing.dev). Alternatively, feel free to open an issue if you find bugs or want to request new features.
-
 ## 📜 License
 
 Licensed under the MIT License, Copyright © 2023
 
 ---
-
-Made with 🤍 by [Sat Naing](https://satnaing.dev) 👨🏻‍💻
